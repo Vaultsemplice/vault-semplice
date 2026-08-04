@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "format": "secure-vault-web",
+  "algorithm": "AES-GCM",
+  "keyLength": 256,
+  "requestedKeyLength": 256,
+  "id": "aec5cef1-cefe-486f-876b-127f7c1ee209",
+  "fileName": "documento-riservato.txt",
+  "mimeType": "text/plain",
+  "size": 75,
+  "createdAt": "2026-08-03T23:40:22.032Z",
+  "expiresAt": null,
+  "maxOpens": 0,
+  "openCount": 0,
+  "ownerUid": null,
+  "salt": "LITdisuyo5Fqx45ClF8sOw==",
+  "iv": "r1VnlSZ8yUUVliz8",
+  "ciphertext": "rO5sd0d9ZETTz0m5O0f7Hh9Ug478WRiBS04KnRd5EunWlVpWreu166u4SnN+Al6Q4TDru7/Iz5LONHgx71dgiiEx2eKZQFiQ6kC3TFUf1VQwChFC3mgA74/Oqw=="
+}
