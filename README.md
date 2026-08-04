@@ -83,3 +83,17 @@ The open-source components contained in this repository are distributed under th
 Learn more about the complete project at **vaultsemplice.com**.
 
 **Simple to use. Built for privacy. Open where security should be verifiable.**
+
+## 🖼️ Screenshots
+
+### Vault Semplice Web
+
+<p align="center">
+  <img src="Screenshot%202026-08-04%20111631.png" alt="Vault Semplice Web" width="900">
+</p>
+
+### Vault Semplice Desktop
+
+<p align="center">
+  <img src="Screenshot%202026-08-04%20111702.png" alt="Vault Semplice Desktop" width="1200">
+</p>
