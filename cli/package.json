@@ -1,0 +1,28 @@
+{
+  "name": "vaultsemplice-cli",
+  "version": "1.1.1",
+  "description": "CLI da terminale per Secure Vault (compatibile con la versione web/Tauri) + comandi per Cloudflare R2, login e PDF di riepilogo",
+  "bin": {
+    "vault": "bin/vault.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "start.sh",
+    "start.bat"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node bin/vault.js start"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.600.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.11.0",
+    "pdfkit": "^0.15.0"
+  },
+  "license": "MIT"
+}
